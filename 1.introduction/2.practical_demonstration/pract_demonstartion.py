@@ -22,4 +22,4 @@ print(sum)
 
 #  conculustion
 #  more the numerical data more will be calculation time 
-# that means if we have large amount of numerical data in data analytica and data science and we need to perofrm a mathmetcial calculation on them then we  should not  use python data structure 
+# that means if we have large amount of numerical data in data analytica and data science and we need to perofrm a mathmetcial calculation on them then we  should not  use python data structure instead we use numpy array
