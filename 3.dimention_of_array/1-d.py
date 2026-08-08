@@ -1,5 +1,5 @@
 # 1-D NumPy array:
-# A NumPy array that contains direct elements (numbers, strings, etc.).
+# A NumPy array that contains direct primitive  elements (numbers, strings, etc.).
 # shape means the size of the array along each dimension.
 # size means the total number of elements present in the NumPy array.
         #   or
