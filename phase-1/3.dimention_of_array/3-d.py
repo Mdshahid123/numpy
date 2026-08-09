@@ -1,10 +1,7 @@
-
-# A NumPy array that contains 2-D NumPy arrays
-# shape means the size of the array along each dimension.
-# size means the total number of elements present in the NumPy array.
-        #   or
-# sum of element in each dimention
-
+# 3-d array:
+# A NumPy array that contains two-D  elements 
+# shape means number of elements  along each dimension.
+# size means sum of all primitive elements
 
 import numpy as np
 
@@ -42,6 +39,3 @@ arr3=np.array([
   ])
 
 print(f"arr1:{arr1},size:{arr1.size},shape:{arr1.shape}")
-
-
-

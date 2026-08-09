@@ -3,8 +3,7 @@ import numpy as np
 import time
 
 # Create a NumPy array of numbers from 1 to 1000
-# arr=np.array([1,2,3,5,6])
-# print(arr)
+
 arr = np.arange(1, 1001)
 
 # Measure execution time
