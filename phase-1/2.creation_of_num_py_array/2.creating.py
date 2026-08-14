@@ -1,4 +1,4 @@
-# what is arrange() fucntion is numpy
+# what is arrange() fucntion in numpy
 # arrange funtion is used to create a one-D numpy array having sequence of number
 # syntax np.arrange(starting value,stop,step)
 
