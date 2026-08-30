@@ -1,4 +1,4 @@
-# NumPy (Numerical Python) is a Python library used for fast numerical computing. It provides a powerful data structure called the ndarray (N-dimensional array), which stores numerical data efficiently and allows fast mathematical and scientific computations.
+# NumPy (Numerical Python) is a Python library used for fast numerical calculation. It provides a powerful data structure called the numpy array  which stores numerical data efficiently and allows fast mathematical and scientific computations.
 
 
 
