@@ -20,7 +20,7 @@ print("Time taken:", end - start, "seconds")
 
 
 
-# so Instead of storing  in a Python list, we use a NumPy ndarray because it is:
+# so Instead of storing  in a Python list, we use a NumPy array because it is:
 
 # Faster
 # Uses less memory
