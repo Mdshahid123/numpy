@@ -1,7 +1,8 @@
 # 1-D NumPy array:
 # A NumPy array that contains direct primitive  elements (numbers, strings, etc.).
-# shape means number of elements  along each dimension.
-# size means sum of all primitive elements
+# syntax:[ele1,ele2,ele3...] where ele1,ele2 should be primitive elemnts
+# shape means number of elements  a long each dimension.(it will show in tuples format)
+# size means sum of all elements in each dimention
 
 import numpy as np
 
