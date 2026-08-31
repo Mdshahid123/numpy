@@ -1,6 +1,7 @@
 # 2-D ARRAY
 
 # A NumPy array that contains one-D  elements 
+# syntax: np.array([ele1,ele2,ele3...) where ele1,ele2,ele3 should be one dimention list
 # shape means number of elements  along each dimension.
 # size means sum of all primitive elements
 
