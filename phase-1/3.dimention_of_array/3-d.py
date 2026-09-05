@@ -1,7 +1,7 @@
 # 3-d array:
-# A NumPy array that contains two-D  elements 
+# A NumPy array that contains two-D  items 
 # shape means number of elements  along each dimension.
-# size means sum of all primitive elements
+# size means sum of all primitive item
 
 import numpy as np
 
